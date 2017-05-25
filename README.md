@@ -11,6 +11,6 @@ You can save yourself a sit by registering on this form:
 
 ## What you'll need
 
-Brign your own laptop or coding device. On it you'll need some stuff to make Clojure work :)
+Bring your own laptop or coding device. On it you'll need some stuff to make Clojure work :)
 
 Minimum Clojure environment setup requirements are described [here!](https://github.com/alex-gherega/clojure-env-setup)
